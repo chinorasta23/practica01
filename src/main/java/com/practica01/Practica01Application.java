@@ -1,13 +1,13 @@
-package com.tienda_l;
+package com.practica01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TiendaApplication {
+public class Practica01Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TiendaApplication.class, args);
+		SpringApplication.run(Practica01Application.class, args);
 	}
 
 }

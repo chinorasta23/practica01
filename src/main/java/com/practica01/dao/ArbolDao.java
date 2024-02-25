@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package com.tienda_l.dao;
+package com.practica01.dao;
 
-import com.tienda_l.domain.Categoria;
+import com.practica01.domain.Arbol;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
@@ -12,6 +12,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * @author Laboratorios
  */
 
-public interface CategoriaDao extends JpaRepository < Categoria, Long> {
+public interface ArbolDao extends JpaRepository < Arbol, Long> {
     
 }

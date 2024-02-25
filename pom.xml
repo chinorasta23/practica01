@@ -8,11 +8,11 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tienda_l</groupId>
-	<artifactId>Tienda</artifactId>
+	<groupId>com.practica01</groupId>
+	<artifactId>practica01</artifactId>
 	<version>1</version>
-	<name>Tienda</name>
-	<description>Proyecto a desarrollaren el curso web y patrones 2024</description>
+	<name>practica01</name>
+	<description>practica01</description>
 	<properties>
 		<java.version>19</java.version>
 	</properties>

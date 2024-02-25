@@ -1,4 +1,4 @@
-package com.tienda_l;
+package com.practica01;
 
 import java.util.Locale;
 import org.springframework.context.annotation.Bean;
